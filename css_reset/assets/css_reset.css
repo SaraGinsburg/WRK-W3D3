@@ -1,0 +1,50 @@
+html,
+head,
+title,
+meta,
+link,
+script,
+body,
+header,
+img,
+nav,
+ul,
+li,
+a,
+aside,
+h2,
+section,
+h1,
+figure,
+figcaption,
+p,
+ol,
+form,
+label,
+input,
+select,
+option,
+footer,
+textarea {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+
+}
+
+body {
+  line-height: 1.5;
+}
+
+ol, ul {
+  list-style: none;
+}
+
+
+/*figure > */
+img  {
+  width: 100%;
+}
